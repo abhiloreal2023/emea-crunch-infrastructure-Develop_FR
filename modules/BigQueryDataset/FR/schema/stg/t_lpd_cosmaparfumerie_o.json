@@ -1,0 +1,93 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "RUN_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "UNNAMED_01",
+    "type": "STRING"
+  },
+  {
+      "mode": "NULLABLE",
+      "name": "MARQUE",
+      "type": "STRING"
+    },    
+    {
+      "mode": "NULLABLE",
+      "name": "JANVIER",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "FEVRIER",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "MARS",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "AVRIL",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "MAI",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "JUIN",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "JUILLET",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "AOUT",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "SEPTEMBRE",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "OCTOBRE",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "NOVEMBRE",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "DECEMBRE",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "TOTAL",
+      "type": "STRING"
+    },    
+    {
+      "mode": "NULLABLE",
+      "name": "PERIODE",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "SHEETNAME",
+      "type": "STRING"
+    }
+  ]
+  

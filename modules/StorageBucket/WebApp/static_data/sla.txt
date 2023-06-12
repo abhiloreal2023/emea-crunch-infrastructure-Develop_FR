@@ -1,0 +1,17 @@
+Incident Resolution Time
+
+incidents with severity Critical should be resolved within 24 hours
+incidents with severity High should be resolved within 72hours
+incident with severity Low should be resolved within 96 hour
+
+
+New retialer on-board overall duration
+Not defined for MVP
+Ambition for steady state 2 weeks/ 4 weeks
+
+On-time-on-boardings
+Not defined
+
+Overall duration for a change to a live retialer
+Not defined for MVP
+Ambition for steady state 2 weeks/ 4 weeks

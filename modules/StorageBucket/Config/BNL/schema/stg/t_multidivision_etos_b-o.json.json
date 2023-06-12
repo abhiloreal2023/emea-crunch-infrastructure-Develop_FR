@@ -1,0 +1,2663 @@
+[
+  {
+  "mode": "NULLABLE",
+  "name": "RUN_ID",
+  "type": "String"
+  },
+  {
+      "mode": "NULLABLE",
+      "name": "YearWeek",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "Item_ID",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "EAN_ID",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "Brand",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "Item_Description",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "Packaging_Size",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "Department",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "Class",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "Subclass",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6010",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6014",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6015",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6016",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6017",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6020",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6026",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6027",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6029",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6032",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6033",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6035",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6038",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6040",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6041",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6052",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6055",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6057",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6063",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6075",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6076",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6081",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6084",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6086",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6089",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6097",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6098",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6101",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6103",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6104",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6105",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6107",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6110",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6113",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6114",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6115",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6116",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6117",
+      "type": "STRING"
+  },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6124",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6129",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6131",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6139",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6142",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6145",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6146",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6147",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6148",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6150",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6151",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6154",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6155",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6156",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6158",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6159",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6160",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6161",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6162",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6165",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6166",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6168",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6169",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6173",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6174",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6175",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6177",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6179",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6181",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6182",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6184",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6186",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6187",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6193",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6194",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6196",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6200",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6202",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6204",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6206",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6207",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6208",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6209",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6210",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6215",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6216",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6217",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6218",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6219",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6220",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6225",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6226",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6228",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6231",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6232",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6235",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6237",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6238",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6240",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6241",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6244",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6245",
+      "type": "STRING"
+    },
+	{
+      "mode": "NULLABLE",
+      "name": "POS_6248",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6249",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6251",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6252",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6253",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6255",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6256",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6258",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6259",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6262",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6263",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6264",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6265",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6266",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6270",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6271",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6272",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6274",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6275",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6276",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6277",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6278",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6279",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6280",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6281",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6282",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6283",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6284",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6285",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6286",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6287",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6288",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6289",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6290",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6291",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6294",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6295",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6296",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6297",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6298",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6299",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6301",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6302",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6304",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6305",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6306",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6307",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6308",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6309",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6310",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6311",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6312",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6313",
+      "type": "STRING"
+    },
+	{
+      "mode": "NULLABLE",
+      "name": "POS_6314",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6315",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6316",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6317",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6318",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6319",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6320",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6321",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6322",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6323",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6324",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6326",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6327",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6328",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6329",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6330",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6331",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6332",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6333",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6334",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6335",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6336",
+      "type": "STRING"
+    },
+	{
+      "mode": "NULLABLE",
+      "name": "POS_6337",
+      "type": "STRING"
+    },
+	{
+      "mode": "NULLABLE",
+      "name": "POS_6338",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6339",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6340",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6341",
+      "type": "STRING"
+      },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6342",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6343",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6344",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6345",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6346",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6347",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6348",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6349",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6350",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6351",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6352",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6354",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6355",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6357",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6361",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_6362",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7202",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7205",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7208",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7213",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7222",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7223",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7224",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7227",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7235",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7237",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7238",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7242",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7243",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7245",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7247",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7249",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7250",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7252",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7253",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7258",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7259",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7260",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7264",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7265",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7266",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7267",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7269",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7270",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7275",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7277",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7280",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7281",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7285",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7287",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7289",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7303",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7306",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7309",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7310",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7311",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7312",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7315",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7320",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7322",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7323",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7326",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7328",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7331",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7334",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7335",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7336",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7339",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7340",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7342",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7343",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7344",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7345",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7346",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7348",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7351",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7354",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7355",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7356",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7357",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7358",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7360",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7361",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7362",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7363",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7364",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7368",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7369",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7370",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7371",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7374",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7376",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7377",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7381",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7382",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7384",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7386",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7388",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7390",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7391",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7394",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7395",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7397",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7398",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7431",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7432",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7433",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7434",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7435",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7437",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7438",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7440",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7441",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7442",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7447",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7449",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7456",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7464",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7466",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7469",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7470",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7475",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7476",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7477",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7482",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7484",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7485",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7488",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7489",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7490",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7493",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7494",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7496",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7498",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7570",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7571",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7572",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7573",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7574",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7576",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7578",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7579",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7580",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7582",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7584",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7586",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7588",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7589",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7590",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7593",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7594",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7596",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7701",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7702",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7704",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7705",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7706",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7707",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7709",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7716",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7717",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7718",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7721",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7722",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7723",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7724",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7728",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7729",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7732",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7734",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7735",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7736",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7739",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7740",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7742",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7743",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7745",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7761",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7762",
+      "type": "STRING"
+    },
+	{
+      "mode": "NULLABLE",
+      "name": "POS_7763",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7764",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7765",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7766",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7767",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7768",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7771",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7774",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7775",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7776",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7779",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7780",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7781",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7782",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7784",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7786",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7787",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7788",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7789",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7790",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7791",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7792",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7794",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7796",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7797",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7798",
+      "type": "STRING"
+    },
+   {
+      "mode": "NULLABLE",
+      "name": "POS_7801",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7804",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7805",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7808",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7809",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7810",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7813",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7814",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7815",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7816",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7817",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7818",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7819",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7820",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7821",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7822",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7823",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7824",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7825",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7826",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7828",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7829",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7831",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7833",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7835",
+      "type": "STRING"
+     },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7837",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7838",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7900",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7901",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7902",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7903",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7904",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7905",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7910",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7913",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7914",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7917",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7918",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7919",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7920",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7921",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7924",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7926",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7927",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7928",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7930",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7933",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7936",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7937",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7938",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7939",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7941",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7942",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7948",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7949",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7950",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7951",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7952",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7953",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7955",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7956",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7957",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7960",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7961",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7962",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7964",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7965",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7967",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7969",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7970",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7975",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7977",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7978",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7985",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7986",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7988",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7989",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7990",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7991",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7992",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7993",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7994",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7995",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7996",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_7998",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8322",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8324",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8331",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8332",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8333",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8334",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8335",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8344",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8346",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8352",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8354",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8361",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8366",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8372",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8373",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8376",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8378",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8384",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8387",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8397",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8411",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8420",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8424",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8425",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8427",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8431",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8432",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8436",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8440",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8442",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8443",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8447",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8448",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8452",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8457",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8466",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8468",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8482",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8491",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8496",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8499",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8860",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8862",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8864",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8877",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8878",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8879",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8888",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8893",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8897",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "POS_8898",
+      "type": "STRING"
+    },
+
+  {
+    "mode": "NULLABLE",
+    "name": "POS_TOTAL",
+    "type": "STRING"
+    }
+]

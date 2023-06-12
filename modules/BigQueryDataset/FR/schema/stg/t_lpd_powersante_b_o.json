@@ -1,0 +1,257 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "RUN_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "MARQUE",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "EAN",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_01",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_01",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_02",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_02",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_03",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_03",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_04",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_04",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_05",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_05",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_06",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_06",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_07",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_07",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_08",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_08",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_09",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_09",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_10",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_10",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_11",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_11",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_QTE_FACTUREE_12",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_1_TOTAL_FACTURE_12",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_01",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_01",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_02",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_02",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_03",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_03",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_04",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_04",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_05",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_05",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_06",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_06",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_07",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_07",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_08",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_08",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_09",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_09",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_10",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_10",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_11",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_11",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_QTE_FACTUREE_12",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Y_TOTAL_FACTURE_12",
+    "type": "STRING"
+  }    
+]

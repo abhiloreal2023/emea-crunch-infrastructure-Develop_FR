@@ -1,0 +1,34 @@
+steps:
+  - name: alpine
+    args:
+      - '-c'
+      - |
+        echo "***********************"
+        echo "$BRANCH_NAME"
+        echo "***********************"
+    id: branch name
+    entrypoint: sh
+  - name: 'hashicorp/terraform:1.0.0'
+    args:
+      - '-c'
+      - |
+        terraform init
+    id: tf init
+    entrypoint: sh
+  - name: 'hashicorp/terraform:1.0.0'
+    args:
+      - '-c'
+      - |
+        terraform plan -var-file="boi-org-uat-env.tfvars"
+    id: tf plan
+    entrypoint: sh
+  - name: 'hashicorp/terraform:1.0.0'
+    args:
+      - '-c'
+      - |
+        terraform destroy -var-file="boi-org-uat-env.tfvars" -auto-approve
+    id: tf destroy
+    entrypoint: sh
+options:
+  logging: CLOUD_LOGGING_ONLY
+timeout: 1800s

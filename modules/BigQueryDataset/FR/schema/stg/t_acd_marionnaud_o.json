@@ -1,0 +1,348 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "RUN_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "MARQUE",
+    "type": "STRING"
+  },
+    {
+      "mode": "NULLABLE",
+      "name": "MAGASIN",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_01",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_01",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_01",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_01",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_01",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_02",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_02",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_02",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_02",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_02",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_03",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_03",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_03",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_03",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_03",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_04",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_04",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_04",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_04",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_04",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_05",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_05",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_05",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_05",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_05",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_06",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_06",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_06",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_06",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_06",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_07",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_07",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_07",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_07",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_07",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_08",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_08",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_08",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_08",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_08",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_09",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_09",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_09",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_09",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_09",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_10",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_10",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_10",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_10",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_10",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_11",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_11",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_11",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_11",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_11",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_12",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_12",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_12",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_12",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_12",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_cumul",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_1_Ventes_Volume_cumul",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_cumul",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Y_Ventes_Volume_cumul",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "N_vs_N_1_cumul",
+      "type": "STRING"
+    },
+    {
+      "name": "BRAND",
+      "type": "STRING",
+      "mode": "NULLABLE"
+  }
+    
+  ]

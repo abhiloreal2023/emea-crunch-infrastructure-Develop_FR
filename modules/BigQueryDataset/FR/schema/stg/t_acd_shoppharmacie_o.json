@@ -1,0 +1,124 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "RUN_ID",
+    "type": "STRING"
+  },
+  {
+      "mode": "NULLABLE",
+      "name": "Product_ID",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Product_Name",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "ApoEK",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "SKU",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "JANVIER_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "FEVRIER_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "MARS_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "AVRIL_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "MAI_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "JUIN_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "JUILLET_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "AOUT_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "SEPTEMBRE_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "OCTOBRE_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "NOVEMBRE_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "DECEMBRE_quantity",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "QUANTITY_year",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "TURNOVER_year",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "QUANTITY_year_1",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "TURNOVER_year_1",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "MARQUE",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "PERIODE",
+      "type": "STRING"
+    },
+    {
+        "name": "Brand",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": ""
+    }
+  ]
+  

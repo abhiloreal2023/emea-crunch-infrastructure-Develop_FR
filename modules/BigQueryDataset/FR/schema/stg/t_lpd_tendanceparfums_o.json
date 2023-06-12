@@ -1,0 +1,157 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "run_id",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "month",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "ysl_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "ysl_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "lancome_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "lancome_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "armani_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "armani_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "mugler_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "mugler_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "azzaro_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "azzaro_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "cacharel_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "cacharel_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "diesel_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "diesel_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "viktor&rolf_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "viktor&rolf_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "prada_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "prada_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "valentino_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "valentino_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "lauren_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "lauren_n",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "biotherm_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "biotherm_n",
+    "type": "STRING"
+    },	
+  {
+    "mode": "NULLABLE",
+    "name": "pdm_n-1",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "pdm_n",
+    "type": "STRING"
+    },	
+  {
+    "mode": "NULLABLE",
+    "name": "variation",
+    "type": "STRING"
+    },	
+	  {
+    "mode": "NULLABLE",
+    "name": "so_tcc_n-1",
+    "type": "STRING"
+    },	
+  {
+    "mode": "NULLABLE",
+    "name": "so_tcc_n",
+    "type": "STRING"
+    }		
+]

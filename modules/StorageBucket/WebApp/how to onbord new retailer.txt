@@ -1,0 +1,9 @@
+How to onbord new Retailer
+
+Step1-Need to open new SR Requesr on SNOW portal
+Step2-Guidelines needs to be followed raising new SR Request on SNOW portal
+Step3-Open a New SR Form on path mentioned as-:www.snow.com=>Raise a new request=>Fill SR Form
+Step4-Title should  be "Sell-out-EU 360 Crunch! On-bording of a new retailer"
+Step5-Subtitle Should be "B2B Sell-out data cleaning for Europe and integration in GCP EMEA data foundation"
+Step6-Validetion
+Step7-revalidations

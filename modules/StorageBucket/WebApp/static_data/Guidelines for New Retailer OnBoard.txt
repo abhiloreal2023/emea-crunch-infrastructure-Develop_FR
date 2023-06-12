@@ -1,0 +1,7 @@
+Guidelines for New Retailer OnBoard
+
+1. Need to open new SR Request on SNOW portal
+2. Guidelines needs to be followed while raising new SR Request on SNOW portal
+3. Open a New SR Form on path mentioned www.snow.com=>Raise a new request => Fill SR Form
+4. Title should be "Sell-out EU 360" Crunch! On-boarding of a new retailer
+5. Subtitle should be "BwB Sell-out data cleaning for Europe and integration in GCP EMEA data foundation"> Visit Service Now! 

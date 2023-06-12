@@ -1,0 +1,66 @@
+substitutions:
+    _APPLY_CHANGES: 'true'
+    _ENV: 'np'
+steps:
+- id: 'context'
+  name: 'alpine'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - |
+      echo "***********************"
+      echo "project : $PROJECT_ID"
+      echo "branch  : $BRANCH_NAME"
+      echo "env     : ${_ENV}"
+      echo "mode    : $([[ ${_APPLY_CHANGES} = 'true' ]] && echo 'LIVE' || echo 'DRY RUN')"
+      echo "***********************"
+# - id: 'Deploy workflows-trigger config'
+#   name: 'gcr.io/cloud-builders/gcloud'
+#   entrypoint: 'bash'
+#   args:
+#   - '-c'
+#   - |
+#       if [ "${_APPLY_CHANGES}" = 'true' ]; then
+#         echo "*****************************************"
+#         echo "Applying changes on live environment"
+#         echo "*****************************************"
+#         find ./workflows-trigger -type f -name '*json' | xargs sed -i.bak 's/{{ gcp_env }}/'${_ENV}'/g'
+#         gsutil rsync -d -c -r -x '\.git.*' -x '.*bak' './workflows-trigger' gs://${_DATACONFIG_BUCKET}/cloudrun-workflows-trigger
+#       else
+#         echo "*****************************************"
+#         echo "Skipping apply (DRY RUN)"
+#         echo "*****************************************"
+#       fi
+- id: 'terraform init'
+  name: 'hashicorp/terraform:1.1.2'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - |
+      cd environments/${_ENV}
+      TF_IN_AUTOMATION=1 terraform init -input=false
+- id: 'terraform plan'
+  name: 'hashicorp/terraform:1.1.2'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - |
+      cd environments/${_ENV}
+      TF_IN_AUTOMATION=1 terraform plan -input=false -out changes.tfplan
+- id: 'terraform apply'
+  name: 'hashicorp/terraform:1.1.2'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - |
+      if [ "${_APPLY_CHANGES}" = 'true' ]; then
+        echo "*****************************************"
+        echo "Applying changes on live environment"
+        echo "*****************************************"
+        cd environments/${_ENV}
+        TF_IN_AUTOMATION=1 terraform destroy -input=false -auto-approve
+      else
+        echo "*****************************************"
+        echo "Skipping apply (DRY RUN)"
+        echo "*****************************************"
+      fi

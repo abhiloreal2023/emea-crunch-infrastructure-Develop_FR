@@ -1,0 +1,285 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "RUN_ID",
+    "type": "STRING"
+  },
+   {
+    "mode": "NULLABLE",
+    "name": "Code_four",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Fournisseur",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Code",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "CodeBarre",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Designation",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Couleur",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Tar",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Total",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Janv",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Fev",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Mar",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Avr",
+    "type": "STRING"
+  },
+
+  {
+    "mode": "NULLABLE",
+    "name": "Mai",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Juin",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Juil",
+    "type": "STRING"
+  },
+  {
+      "mode": "NULLABLE",
+      "name": "Aout",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Sept",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Oct",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Nov",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Dec",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Dispo",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Prix_achat",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Conso_p_mois",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Nb_mois",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Valeur",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "aap",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "AHUYO_N",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "AHUYDISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "BRIVO_N",
+      "type": "STRING"
+    },
+
+    {
+      "mode": "NULLABLE",
+      "name": "BRIVDISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "ST_AO_N",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "ST_ADISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "DIJOO_N",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "DIJODISP",
+      "type": "STRING"
+    },
+
+    {
+      "mode": "NULLABLE",
+      "name": "ENGAO_N",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "ENGADISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "FIGEO_N",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "FIGEDISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "ENTZO_N",
+      "type": "STRING"
+    },
+
+    {
+      "mode": "NULLABLE",
+      "name": "ENTZDISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "LIMOO_N",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "LIMODISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "LORMO_N",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "LORMDISP",
+      "type": "STRING"
+    },
+
+    {
+      "mode": "NULLABLE",
+      "name": "MERIO_N",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "MERIDISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "MONTO_N",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "MONTDISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "STRAO_N",
+      "type": "STRING"
+    },
+
+    {
+      "mode": "NULLABLE",
+      "name": "STRADISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "TOULO_N",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "TOULDISP",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "COL_1",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "ANNEE",
+      "type": "STRING"
+    }
+
+  ]
+  

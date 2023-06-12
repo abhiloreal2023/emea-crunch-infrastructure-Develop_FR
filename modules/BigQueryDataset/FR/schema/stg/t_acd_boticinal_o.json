@@ -1,0 +1,269 @@
+[
+	{
+      "mode": "NULLABLE",
+      "name": "RUN_ID",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "string_field_0",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_1",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_2",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_3",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "string_field_4",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_5",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_6",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_7",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_8",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "string_field_9",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_10",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_11",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_12",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "string_field_13",
+      "type": "STRING"
+    },
+  {
+      "mode": "NULLABLE",
+      "name": "string_field_14",
+      "type": "STRING" 
+    },
+      {
+        "mode": "NULLABLE",
+        "name": "string_field_15",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "string_field_16",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "string_field_17",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "string_field_18",
+        "type": "STRING"
+      },
+    {
+        "mode": "NULLABLE",
+        "name": "string_field_19",
+        "type": "STRING" 
+      },
+        {
+          "mode": "NULLABLE",
+          "name": "string_field_20",
+          "type": "STRING"
+        },
+        {
+          "mode": "NULLABLE",
+          "name": "string_field_21",
+          "type": "STRING"
+        },
+        {
+          "mode": "NULLABLE",
+          "name": "string_field_22",
+          "type": "STRING"
+        },
+        {
+          "mode": "NULLABLE",
+          "name": "string_field_23",
+          "type": "STRING"
+        },
+      {
+          "mode": "NULLABLE",
+          "name": "string_field_24",
+          "type": "STRING" 
+        },
+          {
+            "mode": "NULLABLE",
+            "name": "string_field_25",
+            "type": "STRING"
+          },
+          {
+            "mode": "NULLABLE",
+            "name": "string_field_26",
+            "type": "STRING"
+          },
+          {
+            "mode": "NULLABLE",
+            "name": "string_field_27",
+            "type": "STRING"
+          },
+          {
+            "mode": "NULLABLE",
+            "name": "string_field_28",
+            "type": "STRING"
+          },
+        {
+            "mode": "NULLABLE",
+            "name": "string_field_29",
+            "type": "STRING" 
+          },
+          {
+            "mode": "NULLABLE",
+            "name": "string_field_30",
+            "type": "STRING"
+          },
+          {
+            "mode": "NULLABLE",
+            "name": "string_field_31",
+            "type": "STRING"
+          },
+          {
+            "mode": "NULLABLE",
+            "name": "string_field_32",
+            "type": "STRING"
+          },
+          {
+            "mode": "NULLABLE",
+            "name": "string_field_33",
+            "type": "STRING"
+          },
+        {
+            "mode": "NULLABLE",
+            "name": "string_field_34",
+            "type": "STRING" 
+          },
+            {
+              "mode": "NULLABLE",
+              "name": "string_field_35",
+              "type": "STRING"
+            },
+            {
+              "mode": "NULLABLE",
+              "name": "string_field_36",
+              "type": "STRING"
+            },
+            {
+              "mode": "NULLABLE",
+              "name": "string_field_37",
+              "type": "STRING"
+            },
+            {
+              "mode": "NULLABLE",
+              "name": "string_field_38",
+              "type": "STRING"
+            },
+          {
+              "mode": "NULLABLE",
+              "name": "string_field_39",
+              "type": "STRING" 
+            },
+            {
+              "mode": "NULLABLE",
+              "name": "string_field_40",
+              "type": "STRING"
+            },
+            {
+              "mode": "NULLABLE",
+              "name": "string_field_41",
+              "type": "STRING"
+            },
+            {
+              "mode": "NULLABLE",
+              "name": "string_field_42",
+              "type": "STRING"
+            },
+            {
+              "mode": "NULLABLE",
+              "name": "string_field_43",
+              "type": "STRING"
+            },
+          {
+              "mode": "NULLABLE",
+              "name": "string_field_44",
+              "type": "STRING" 
+            },
+              {
+                "mode": "NULLABLE",
+                "name": "string_field_45",
+                "type": "STRING"
+              },
+              {
+                "mode": "NULLABLE",
+                "name": "string_field_46",
+                "type": "STRING"
+              },
+              {
+                "mode": "NULLABLE",
+                "name": "string_field_47",
+                "type": "STRING"
+              },
+              {
+                "mode": "NULLABLE",
+                "name": "string_field_48",
+                "type": "STRING"
+              },
+            {
+                "mode": "NULLABLE",
+                "name": "string_field_49",
+                "type": "STRING" 
+              },
+              {
+                  "mode": "NULLABLE",
+                  "name": "string_field_50",
+                  "type": "STRING" 
+                },
+                {
+                    "name": "Brand",
+                    "type": "STRING",
+                    "mode": "NULLABLE",
+                    "description": ""
+                }
+  ]
+    

@@ -1,0 +1,259 @@
+[
+  {
+  "mode": "NULLABLE",
+  "name": "RUN_ID",
+  "type": "String"
+  },	
+  {
+  "mode": "NULLABLE",
+  "name": "Lieferant",
+  "type": "String"
+  },
+   {
+  "mode": "NULLABLE",
+  "name": "unknown_1",
+  "type": "String"
+  },
+    {
+  "mode": "NULLABLE",
+  "name": "Brand",
+  "type": "String"
+  },
+  {
+   "mode": "NULLABLE",
+   "name": "Linie",
+   "type": "String"
+  },
+  {
+   "mode": "NULLABLE",
+   "name": "Artikel",
+   "type": "String"
+  },
+  {
+  "mode": "NULLABLE",
+  "name": "unknown_2",
+  "type": "String"
+  },
+  {
+  "mode": "NULLABLE",
+  "name": "unknown_3",
+  "type": "String"
+  },
+  {
+  "mode": "NULLABLE",
+  "name": "unknown_4",
+  "type": "String"
+  },
+  {
+  "mode": "NULLABLE",
+  "name": "unknown_5",
+  "type": "String"
+  },
+  {
+   "mode": "NULLABLE",
+   "name": "EAN",
+   "type": "String"
+  },
+  {
+   "mode": "NULLABLE",
+   "name": "Vanzari_total",
+   "type": "String"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_001",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_002",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_003",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_004",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_005",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_006",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_007",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_008",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_009",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_010",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_011",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_012",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_013",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_014",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_015",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_016",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_017",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_018",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_019",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_020",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_021",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_022",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_023",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_024",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_025",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_026",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_027",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_028",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_029",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_030",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_031",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_033",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_034",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_035",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_036",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_037",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_038",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_039",
+    "type": "String"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "POS_397",
+    "type": "String"
+    }
+
+
+]

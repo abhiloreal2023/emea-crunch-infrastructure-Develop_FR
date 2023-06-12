@@ -1,0 +1,5 @@
+How to Change existing Service Request
+
+Step-1: Guidelines need to be followed while updating existing SR Request on SNOW portal
+Step-2: Open a existing SR update Form on path mentioned as www.snow.com=>Active SR List=>Click on SR for Update=> File SR Update Form
+Step-3: Title should be "Sell-out EU 360" Crunch! Modify/delete an already existing flow from a retailer

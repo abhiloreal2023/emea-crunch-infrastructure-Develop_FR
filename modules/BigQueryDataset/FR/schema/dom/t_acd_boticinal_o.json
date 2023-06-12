@@ -1,0 +1,70 @@
+[
+
+  {
+    "mode": "NULLABLE",
+    "name": "MARQUE",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "EAN",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "NOM_PRODUIT",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "PRIX_VENTE",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "VALEUR",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "VOLUME",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "PERIODE",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "INSERT_DATETIME",
+    "type": "DATETIME"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "UPDATE_DATETIME",
+    "type": "DATETIME"
+  },
+  
+{
+    "mode": "NULLABLE",
+    "name": "RETAILER",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "PERIOD_START_DATE",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "PERIOD_END_DATE",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "RUN_ID",
+    "type": "STRING"
+  }
+]
+  

@@ -1,0 +1,82 @@
+[
+	{
+      "mode": "NULLABLE",
+      "name": "RUN_ID",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Clasaarticole",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "CODEXTERN",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Articol",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "WWW",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Iasi1",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Onesti",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Roman",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Botosani1",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Bacau",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Vaslui",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Botosani2",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Barlad",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "PiatraNeamt",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Iasi2",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Total",
+      "type": "STRING"
+    }
+]

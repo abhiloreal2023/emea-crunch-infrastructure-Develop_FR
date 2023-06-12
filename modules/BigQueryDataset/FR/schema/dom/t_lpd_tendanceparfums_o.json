@@ -1,0 +1,32 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "loreal_market_flag",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "period_start_date",
+    "type": "INT64"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "period_end_date",
+    "type": "INT64"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "amount",
+    "type": "NUMERIC"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "brand",
+    "type": "STRING"
+    },
+  {
+    "mode": "NULLABLE",
+    "name": "run_id",
+    "type": "STRING"
+    }	
+]
